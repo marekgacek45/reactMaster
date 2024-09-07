@@ -1,0 +1,25 @@
+{
+	"images": [
+		{
+			"src": "/dog-1.jpg",
+			"alt": "happy Border Collie"
+		},
+		{
+			"src": "/dog-2.jpg",
+			"alt": "two dogs playing"
+		},
+		{
+			"src": "/dog-3.jpg",
+			"alt": "smile of happy dog"
+		},
+		{
+			"src": "/dog-4.jpg",
+			"alt": "eyes and nose of brown dog"
+		},
+		{
+			"src": "/dog-5.jpg",
+			"alt": "walking dogs"
+		}
+	
+	]
+}
