@@ -21,7 +21,7 @@ const StarRating = () => {
 				</div>
 				{rating && (
 					<h2 className='text-lg'>
-						Ocena: <span className='font-semibold'>{rating}</span>
+						Rating: <span className='font-semibold'>{rating}</span>
 					</h2>
 				)}
 			</div>
